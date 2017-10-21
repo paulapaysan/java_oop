@@ -1,4 +1,4 @@
-public class JohnSnow {
+public class JonSnow {
 
     private List<String> titles = new ArrayList<String>();
     titles.add("King in the North");
